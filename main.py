@@ -13,6 +13,9 @@ Register Map:
   5: gyro_z   (dps, ÷10)
   6: temperature (°C, ÷100)
 """
+"""
+pip install pymodbus
+"""
 
 import sqlite3
 import time
